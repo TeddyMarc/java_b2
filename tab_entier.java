@@ -11,6 +11,7 @@ public class tab_entier {
         }
         double mean = sum / data.length;
         System.out.println("Moyenne " + mean);
+        
 
         //calcul de la mediane 
         Arrays.sort(data);
